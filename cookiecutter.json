@@ -1,0 +1,10 @@
+{
+    "creator": "Andrew Soltes",
+    "team": "loans devops",
+    "email": "loans-devops@etradingsoftware.com",
+    "project_name": "ses-parsing-email",
+    "pipeline_name": "pipeline",
+    "parameters": "parameters",
+    "iac_runner_version": "1.0.6",
+    "iam_role": "ses-parsing-iam-role"
+}
